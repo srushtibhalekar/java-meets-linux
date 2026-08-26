@@ -183,13 +183,11 @@ After completing the 30 days, the repository will contain:
 
 ---
 
-## 👩‍💻 Author
+🎯 Mission
 
-**Srushti Bhalekar**
-
-GitHub: [@srushtibhalekar](https://github.com/srushtibhalekar)
-
----
+Understand the terminal.
+Control the system.
+Automate the boring stuff.
 
 ## ⭐ 30 Days. One Terminal. Real Linux Skills.
 
